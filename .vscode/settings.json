@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compileCommands": "builddir/compile_commands.json",
+    "files.associations": {
+        "numbers": "c"
+    }
+}
