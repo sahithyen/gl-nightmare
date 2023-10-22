@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2023 Sahithyen Kanaganayagam <mail@sahithyen.com>
+// SPDX-License-Identifier: MIT
+
 #include "fixed-graph.h"
 
 #include <stdint.h>

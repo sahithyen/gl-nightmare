@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2023 Sahithyen Kanaganayagam <mail@sahithyen.com>
+// SPDX-License-Identifier: MIT
+
 #if !defined(NIGHTMARE_USE_GLES1) && !defined(NIGHTMARE_USE_GLES2)
 #error "GL version not selected via a symbol"
 #endif
